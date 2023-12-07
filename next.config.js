@@ -6,4 +6,3 @@ Object.prototype.hasOwnProperty,Object.prototype.toString,Object.defineProperty,
 module.exports = nextConfig
 
 /*** config sqlite3 */
-const sqlite3 = require('sqlite3');
